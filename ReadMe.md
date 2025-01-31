@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Loris.<br>I live in Switzerland.<br>I am 18 years old and I am an apprentice software developer at AXA Insurance.<br>Beside the work I play a lot of handball (8 times a week).
+My name is Loris.<br>I live in Switzerland.<br>I am 19 years old and I am an apprentice software developer at AXA Insurance.<br>Beside the work I play a lot of handball (8 times a week).
 
 
 ## 🌐 Socials:
